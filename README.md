@@ -33,6 +33,8 @@ git push origin gh-pages
 ```
 Well, that's it. If you have a .html file called myresult.html under your repo "reponame", you should be able to view it here: http://yourUserName.github.io/reponame/myresult.html
 
+In my case, you can view one of my html files here: http://lianggao.github.io/ipynb_test/Logo.html
+
 2, switch back to master if you want to continue working:
 ```
 git checkout master
